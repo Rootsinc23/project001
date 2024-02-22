@@ -1,3 +1,2 @@
-# project001
+# React + Vite
 
-School Management System 
